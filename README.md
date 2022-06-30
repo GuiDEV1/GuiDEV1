@@ -1,5 +1,5 @@
 ## Olá! me chamo Guilherme seja bem vindo ao meu perfil.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git.io/typing-svg)<br>
 
 
 - 🔭 Aprimorando meu conhecimento para ser um otimo profissional na área
