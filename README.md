@@ -19,7 +19,7 @@
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Gui-C++" height="30" width="40" src="https://www.pngall.com/wp-content/uploads/2016/05/C-Free-Download-PNG.png">
-  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/Ee4Bfxl_2k8rKAKqArQ5YjOiq_AzjIv2oIPkuo09BUFPLJFTiI-XYYuPNd5pqwJkMqrOb1tkdMY=s176-c-k-c0x00ffffff-no-rj-mo">
+  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/773372240686350356/1001199871631556628/ae31a329-648e-44d6-8856-23e232cf9ac0.jpg">
 </div>
   
   ##
