@@ -13,8 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDEV1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <h2 align="center">Tecnologias💻👨‍💻</h2>
-<div style="display: inline_block" >
+ <h2 align="center">Tecnologias👨‍💻</h2>
+<div align="center" style="display: inline_block" >
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +27,7 @@
    
   
    
-  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/773372240686350356/1001199871631556628/ae31a329-648e-44d6-8856-23e232cf9ac0.jpg">
+  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/773372240686350356/1044110297348190239/09c62903beeba336dc9da76eb5c9a107.gif">
 </div>
   
   ##
