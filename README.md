@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Seja+bem+vindo!+%3C3)](https://git.io/typing-svg)<br>
 
 
-- 🔍 Aprimorando meu conhecimento para ser um otimo profissional na área.        <img src="" alt="ssss" />
+- 🔍 Aprimorando meu conhecimento para ser um otimo profissional na área.       
 - 🎓 Estudante de Analise e desenvolvimento de Sistemas Uninove.
 - 👨‍💻 Estudando no instituto proa, curso programador web java.
 - 👽 Músico e apaixondo por games🎮🎮🎮.
