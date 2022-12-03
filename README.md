@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF&size=20&duration=6580&center=true&vCenter=true&width=629&lines=Ola+me+chamo+Guilherme+seja+bem+vindo+ao+meu+perfil!+%3C3)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF&size=21&duration=6530&center=true&vCenter=true&width=649&lines=Ola+me+chamo+Guilherme+seja+bem+vindo+ao+meu+perfil!+%3C3)](https://git.io/typing-svg)<br>
 
  <img src="https://cdn.discordapp.com/attachments/773372240686350356/1048306160769449984/bannerMe.jpg" />
 
