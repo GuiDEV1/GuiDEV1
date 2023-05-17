@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF&size=21&duration=6530&center=true&vCenter=true&width=649&lines=Ola+me+chamo+Guilherme+seja+bem+vindo+ao+meu+perfil!+%3C3)](https://git.io/typing-svg)<br>
 
  <img src="https://cdn.discordapp.com/attachments/773372240686350356/1063548719502463038/bannerLinkedin.png" />
+ 
+ 📃<a href="https://my-portfolio-guidev1.vercel.app">Meu portfólio</a>
 
 <div align="center">
   <a href="https://github.com/GuiDEV1">
