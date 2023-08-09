@@ -26,7 +26,7 @@
    
   
    
-  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/773372240686350356/1044110297348190239/09c62903beeba336dc9da76eb5c9a107.gif">
+  <img align="right" alt="Gui-avatar" height="150" style="border-radius:5px;" src="https://media.discordapp.net/attachments/773371651885760533/1138979886371975251/850477fed08bfe98598082bcd309ce70.gif">
 </div>
   
   ##
