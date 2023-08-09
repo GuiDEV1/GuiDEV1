@@ -3,7 +3,7 @@
 
  <img src="https://cdn.discordapp.com/attachments/773372240686350356/1063548719502463038/bannerLinkedin.png" />
  
- 📃<a href="https://my-portfolio-guidev1.vercel.app" target="_blank" >Meu portfólio</a>
+ <h2><a href="https://my-portfolio-guidev1.vercel.app" target="_blank" >📝Meu portfólio</a></h2>
 
 <div align="center">
   <a href="https://github.com/GuiDEV1">
