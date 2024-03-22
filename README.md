@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF&size=21&duration=6530&center=true&vCenter=true&width=649&lines=Ola+me+chamo+Guilherme+seja+bem+vindo+ao+meu+perfil!+%3C3)](https://git.io/typing-svg)<br>
 
- <img src="https://cdn.discordapp.com/attachments/773372240686350356/1063548719502463038/bannerLinkedin.png" />
+ <img width="400px"  src="https://media.discordapp.net/attachments/773371651885760533/1138979886371975251/850477fed08bfe98598082bcd309ce70.gif?ex=660de8ae&is=65fb73ae&hm=a32dff9df046bd29fc0e8db8cdd2c6490562b8ba4203f0998f8749eb987ef8ec&=&width=560&height=420" />
  
  <h2><a href="https://my-portfolio-guidev1.vercel.app" target="_blank" >📝Meu portfólio</a></h2>
 
