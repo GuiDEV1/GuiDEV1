@@ -32,5 +32,4 @@
   <a href="https://www.linkedin.com/in/guilherme-mascarenhas-dias-254844236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Quantidade de pessoas que passaram por aqui!
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GuiDEV1/count.svg" /></p>
+
